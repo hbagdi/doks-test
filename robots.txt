@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hbagdi.github.io/doks-test/sitemap.xml
+Sitemap: https://hbagdi.github.io/sitemap.xml
