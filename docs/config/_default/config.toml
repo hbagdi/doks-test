@@ -1,4 +1,4 @@
-baseurl = "https://doks.yolo42.com/
+baseurl = "https://doks.yolo42.com/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
