@@ -1,4 +1,4 @@
-baseurl = "https://hbagdi.github.io/doks-test/"
+baseurl = "https://hbagdi.github.io/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
