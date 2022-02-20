@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hbagdi.github.io/sitemap.xml
+Sitemap: https://doks.yolo42.com/sitemap.xml
